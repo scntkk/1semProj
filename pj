@@ -1,0 +1,4 @@
+git init project-integrator
+
+cd project-integrator
+git remote add origin <GitHub repository URL>
